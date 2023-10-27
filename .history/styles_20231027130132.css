@@ -1,0 +1,11 @@
+        * {
+            /** 
+            box-sizing: content-box;
+            The border-box sizing model does the opposite of content-box. The total width of the element, including padding and border, will be the explicit width set. The content of the element will shrink to make room for the padding and border.
+            */
+            box-sizing: border-box;
+        }
+        
+        .header {}
+        
+        .gallery img {}
